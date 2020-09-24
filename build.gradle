@@ -61,5 +61,4 @@ semanticRelease {
 
 task printVersion {
     print(project.version)
-    
 }
