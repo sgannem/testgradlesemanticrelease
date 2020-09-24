@@ -50,6 +50,7 @@ release {
     )
 
 }
+
 semanticRelease {
     repo {
         ghToken = project.ext.ghToken
