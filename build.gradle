@@ -37,6 +37,7 @@ jar {
         ])
     }
 }
+
 release {
     // add a second strategy to create release candidates from 'rc/.*' branches
     versionStrategy semanticRelease.releaseStrategy.copyWith(
